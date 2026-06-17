@@ -49,6 +49,10 @@ Enterprise-grade MFA and identity hardening for SMB environments. A public-safe 
 
 Portable local inference and offline AI workspace designed for private analysis, local tooling, and zero-dependency operation across constrained environments.
 
+### Security Agent Systems
+
+I group my autonomous security and automation work under a single systems concept instead of treating each agent as an isolated product. This includes frameworks and applied systems for security operations, validation, monitoring, orchestration, and operator-assist workflows.
+
 ## NEXUS Ecosystem
 
 The strongest direction in my current portfolio is not a single repository, but an integrated system:
@@ -78,6 +82,19 @@ Together, they form a practical architecture for secure, autonomous, and intelli
 - Led teams of up to 12 people
 - Participated in 50+ infrastructure projects
 
+## Case Study: Secure Access Stack
+
+One of the clearest implementation references in my portfolio is a productized MFA and identity hardening stack derived from real privacyIDEA deployment work.
+
+What makes it important is not only the technology, but the business and regulatory translation behind it:
+
+- it turns a complex upstream 2FA stack into a deployable product for SMBs
+- it reduces adoption friction for Guatemala and LATAM operating contexts
+- it connects identity, VPN access, RADIUS, LDAP, secure administration, and operational maintainability
+- it frames security as a business outcome: compliance, risk reduction, and operational continuity
+
+This work also shaped a broader lesson I now apply across projects: clients rarely buy a technical component in isolation. They buy risk reduction, maintainability, faster deployment, audit readiness, and a clearer operational model.
+
 ## Regional And Regulatory Lens
 
 Part of my work is shaped by the realities of Guatemala and LATAM: budget limits, maintainability requirements, infrastructure constraints, remote support models, and compliance expectations.
@@ -89,6 +106,14 @@ I am especially interested in systems that translate regulatory and operational 
 - secure file handling and auditability
 - encryption-aware storage and transport
 - operational logging and evidence trails
+
+## Current Direction
+
+- AI Security for real operating environments
+- Agentic Engineering patterns with practical deployment models
+- AIOps loops for monitoring, remediation, and reporting
+- Secure infrastructure products for SMBs in LATAM
+- Private AI systems for offline, local, and controlled environments
 
 ## Professional Links
 
