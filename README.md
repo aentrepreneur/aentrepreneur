@@ -6,9 +6,9 @@ Building secure infrastructure, autonomous agents, and private AI systems for re
 
 ## Overview
 
-I work at the intersection of cybersecurity, automation, AI systems, and operational infrastructure.
+Cybersecurity and automation engineer based in Guatemala City, working at the intersection of AI security, infrastructure, and operational systems.
 
-My background combines secure infrastructure, identity hardening, ISO 27001-aligned work, Python automation, and enterprise operations. I now apply that production experience to AI security, agentic engineering, compliance-aware architecture, and practical systems for SMB and LATAM environments.
+My background combines secure infrastructure, identity hardening, ISO 27001-aligned work, Python automation, and enterprise operations. I apply that production experience to AI security, agentic engineering, compliance-aware architecture, and practical systems for SMB and LATAM environments.
 
 ## What I Build
 
@@ -51,17 +51,18 @@ Portable local inference and offline AI workspace designed for private analysis,
 
 ### Security Agent Systems
 
-I group my autonomous security and automation work under a single systems concept instead of treating each agent as an isolated product. This includes frameworks and applied systems for security operations, validation, monitoring, orchestration, and operator-assist workflows.
+Autonomous security and automation frameworks grouped under a single systems concept. Includes work in security operations automation, validation pipelines, monitoring and alert orchestration, operator-assist workflows, and autonomous remediation loops.
 
 ## NEXUS Ecosystem
 
-The strongest direction in my current portfolio is not a single repository, but an integrated system:
+The strongest direction in my portfolio is not a single repository but an integrated system:
 
-- NEXUS CORE provides the secure operational stack
-- NEXUS ONE adds autonomous monitoring and remediation layers
-- Private AI Runtime enables local analysis, reporting, privacy-preserving inference, and resilience-oriented fallback workflows
+- **NEXUS CORE** provides the secure operational stack
+- **NEXUS ONE** adds autonomous monitoring, remediation, and agentic layers
+- **Private AI Runtime** enables local analysis, privacy-preserving inference, and resilience-oriented fallback workflows
+- **Secure Access Stack** contributes enterprise-grade MFA and identity hardening as a productized layer
 
-Together, they form a practical architecture for secure, autonomous, and intelligent infrastructure in real operating environments.
+Together, they form a practical architecture for secure, autonomous, and intelligent infrastructure designed for real operating constraints.
 
 ## Architecture Thinking
 
@@ -84,16 +85,16 @@ Together, they form a practical architecture for secure, autonomous, and intelli
 
 ## Case Study: Secure Access Stack
 
-One of the clearest implementation references in my portfolio is a productized MFA and identity hardening stack derived from real privacyIDEA deployment work.
+My clearest implementation reference is a productized MFA and identity hardening stack derived from real privacyIDEA deployment work in Guatemala.
 
-What makes it important is not only the technology, but the business and regulatory translation behind it:
+What makes it important is not only the technology but the business and regulatory translation behind it:
 
-- it turns a complex upstream 2FA stack into a deployable product for SMBs
-- it reduces adoption friction for Guatemala and LATAM operating contexts
-- it connects identity, VPN access, RADIUS, LDAP, secure administration, and operational maintainability
-- it frames security as a business outcome: compliance, risk reduction, and operational continuity
+- turns a complex upstream 2FA stack into a deployable product for SMBs
+- reduces adoption friction for Guatemala and LATAM operating contexts
+- connects identity, VPN access, RADIUS, LDAP, secure administration, and operational maintainability
+- frames security as a business outcome: compliance, risk reduction, and operational continuity
 
-This work also shaped a broader lesson I now apply across projects: clients rarely buy a technical component in isolation. They buy risk reduction, maintainability, faster deployment, audit readiness, and a clearer operational model.
+This work shaped a broader lesson I apply across projects: clients rarely buy a technical component in isolation. They buy risk reduction, maintainability, faster deployment, audit readiness, and a clearer operational model.
 
 ## Regional And Regulatory Lens
 
