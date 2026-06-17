@@ -47,7 +47,7 @@ Enterprise-grade MFA and identity hardening for SMB environments. A public-safe 
 
 ### [Private AI Runtime](https://github.com/aentrepreneur/private-ai-runtime)
 
-Portable local inference and offline AI workspace designed for private analysis, local tooling, and zero-dependency operation across constrained environments.
+Portable local inference and offline AI workspace designed for private analysis, local tooling, resilience, and zero-dependency operation across constrained environments.
 
 ### Security Agent Systems
 
@@ -59,7 +59,7 @@ The strongest direction in my current portfolio is not a single repository, but 
 
 - NEXUS CORE provides the secure operational stack
 - NEXUS ONE adds autonomous monitoring and remediation layers
-- Private AI Runtime enables local analysis, reporting, and privacy-preserving inference
+- Private AI Runtime enables local analysis, reporting, privacy-preserving inference, and resilience-oriented fallback workflows
 
 Together, they form a practical architecture for secure, autonomous, and intelligent infrastructure in real operating environments.
 
