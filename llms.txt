@@ -1,0 +1,24 @@
+# Angel Esquivel
+
+Angel Estuardo Esquivel Turcios -- AI Engineer building autonomous AI infrastructure for LATAM.
+
+## Focus
+DevSecOps · Agentic AI · Platform Engineering · GovTech
+
+## Capabilities
+- Autonomous agent orchestration (deterministic-first, human veto)
+- Threat intelligence (MISP, OpenCTI, STIX/TAXII, SOC reporting)
+- Security & identity (privacyIDEA, FreeRADIUS, OpenLDAP, Authentik SSO)
+- Local / offline LLM runtimes (GGUF, llama.cpp, Ollama)
+- GovTech procurement intelligence (Guatecompras, OCDS)
+
+## Facts
+- Single-engineer ecosystem: 19+ projects
+- 14 deterministic scripts, 49 skills (27 custom + 22 agent), 10 MCP servers
+- 528K tokens of indexed knowledge (zero-token book extraction)
+
+## Region
+Guatemala City
+
+## Contact
+angelo.entrepreneur@gmail.com
